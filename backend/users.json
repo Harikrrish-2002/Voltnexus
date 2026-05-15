@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "69dcab1d145a0bc297a5c5a9",
+    "email": "harikrishnandilip353@gmail.com",
+    "role": "Worker"
+  },
+  {
+    "_id": "69df1495b377a7a6873e1ddc",
+    "email": "harikrishnandilip2023@gmail.com",
+    "role": "User"
+  },
+  {
+    "_id": "69e02ae68dd91d97c206d67b",
+    "email": "harikrishnand5840@gmail.com",
+    "role": "Dealer"
+  },
+  {
+    "_id": "69e9a176e6bab42f87ba99b0",
+    "email": "testuser@gmail.com",
+    "role": "User"
+  },
+  {
+    "_id": "69f2cf366375e41842023866",
+    "email": "sharansaji2@gmail.com",
+    "role": "User"
+  }
+]
